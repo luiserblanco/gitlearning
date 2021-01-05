@@ -1,3 +1,4 @@
 My name is Luiser Blanco
 I'am Informatic Engineering
 I living Venezuela
+I Learning Git
